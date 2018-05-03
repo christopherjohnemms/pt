@@ -181,6 +181,25 @@ a img
    Author's custom styles
    ========================================================================== */
 
+/** NEW **/
+.menu-image{
+    width:100%;
+    height:auto;
+    -webkit-box-shadow: 13px 20px 46px -19px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 20px 46px -19px rgba(0,0,0,0.75);
+box-shadow: 13px 20px 46px -19px rgba(0,0,0,0.75);
+}
+.menu-image a{
+    display: block;
+    margin-bottom:50px;
+}
+
+.menu-image a img{
+    width:100%;
+    display: block;
+}
+
+
 .logo-mob
 {
     width:150px;
